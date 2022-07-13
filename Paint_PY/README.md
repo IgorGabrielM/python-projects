@@ -3,7 +3,7 @@
 This project is a simple Paint using tkInter of python
 
 <p align="center">
-  <img width="250px" heigth="250px" src="paintpy.gif"
+  <img width="250px" heigth="250px" src="paintpy.gif">
 </p>
   
 ## :floppy_disk: Get started
